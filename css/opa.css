@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://ohlaladani.com.br/wp-content/uploads/wallpaper-OHLALADANI_DESKTOP_WALLPAPERS_AVENTURA-2.jpg');
+    backgroun-size: 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  .menu {
+    background-color: white;
+  }
+  .menu li {
+    list-style: none;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  a{
+    color: black;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: grey;
+  }
+  .site-subtitle {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+  }
